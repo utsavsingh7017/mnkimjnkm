@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qa.test.TestMethods">
+        <methods>
+          <include name="verifyBasicUrl"/>
+          <include name="AfterTest"/>
+          <include name="verifyTokenGeneration"/>
+          <include name="verifyColourMatching"/>
+          <include name="verifyCookiePrinting"/>
+          <include name="verifyColourGreenBoxClick"/>
+          <include name="verifyBaseUrl"/>
+          <include name="verifyProceedLink"/>
+          <include name="verifyDragAndDrop"/>
+          <include name="verifyPopupWindow"/>
+          <include name="setBaseURL"/>
+        </methods>
+      </class> <!-- com.qa.test.TestMethods -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63273" started-at="2019-07-23T05:45:00Z" finished-at="2019-07-23T05:46:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63273" started-at="2019-07-23T05:45:00Z" finished-at="2019-07-23T05:46:04Z">
+      <class name="com.qa.test.TestMethods">
+        <test-method status="PASS" signature="setBaseURL()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="setBaseURL" is-config="true" duration-ms="11865" started-at="2019-07-23T11:15:00Z" finished-at="2019-07-23T11:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURL -->
+        <test-method status="PASS" signature="verifyBaseUrl()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyBaseUrl" duration-ms="319" started-at="2019-07-23T11:15:12Z" finished-at="2019-07-23T11:15:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBaseUrl -->
+        <test-method status="PASS" signature="verifyBasicUrl()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyBasicUrl" duration-ms="200" started-at="2019-07-23T11:15:12Z" finished-at="2019-07-23T11:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBasicUrl -->
+        <test-method status="PASS" signature="verifyColourGreenBoxClick()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyColourGreenBoxClick" duration-ms="271" started-at="2019-07-23T11:15:13Z" finished-at="2019-07-23T11:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyColourGreenBoxClick -->
+        <test-method status="PASS" signature="verifyColourMatching()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyColourMatching" duration-ms="47610" started-at="2019-07-23T11:15:13Z" finished-at="2019-07-23T11:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyColourMatching -->
+        <test-method status="PASS" signature="verifyDragAndDrop()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyDragAndDrop" duration-ms="585" started-at="2019-07-23T11:16:01Z" finished-at="2019-07-23T11:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDragAndDrop -->
+        <test-method status="PASS" signature="verifyPopupWindow()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyPopupWindow" duration-ms="1272" started-at="2019-07-23T11:16:01Z" finished-at="2019-07-23T11:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPopupWindow -->
+        <test-method status="PASS" signature="verifyProceedLink()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyProceedLink" duration-ms="220" started-at="2019-07-23T11:16:02Z" finished-at="2019-07-23T11:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProceedLink -->
+        <test-method status="PASS" signature="verifyTokenGeneration()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyTokenGeneration" duration-ms="103" started-at="2019-07-23T11:16:03Z" finished-at="2019-07-23T11:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTokenGeneration -->
+        <test-method status="PASS" signature="verifyCreateCookie()[pri:1, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyCreateCookie" duration-ms="8" started-at="2019-07-23T11:16:03Z" finished-at="2019-07-23T11:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateCookie -->
+        <test-method status="PASS" signature="verifyCookiePrinting()[pri:2, instance:com.qa.test.TestMethods@7f9a81e8]" name="verifyCookiePrinting" duration-ms="122" started-at="2019-07-23T11:16:03Z" finished-at="2019-07-23T11:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCookiePrinting -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.qa.test.TestMethods@7f9a81e8]" name="AfterTest" is-config="true" duration-ms="663" started-at="2019-07-23T11:16:03Z" finished-at="2019-07-23T11:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.qa.test.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
